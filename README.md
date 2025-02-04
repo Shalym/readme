@@ -1,1 +1,2 @@
-para que metes un lorem bago de mierdagit 
+pos que quieres que meta????
+git push
